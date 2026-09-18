@@ -1,0 +1,8 @@
+https://www.google.com/invalid-page-path-test-- HTTP Error occurred
+https://www.python.org-- Link is valid.
+https://www.google.com-- Link is valid.
+https://www.thisisacompletelyfakeddomainnamethatdoesnotexist.com-- DNS failure or connection refused
+https://example.invalid-domain-extension-- DNS failure or connection refused
+https://github.com/this-page-definitely-does-not-exist-12345-- Link timed out.
+https://github.com-- Link is valid.
+http://example.com-- Link is valid.

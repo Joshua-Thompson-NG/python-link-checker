@@ -1,0 +1,9 @@
+https://www.google.com
+https://github.com
+https://www.python.org
+
+https://github.com/this-page-definitely-does-not-exist-12345
+https://www.google.com/invalid-page-path-test
+
+https://www.thisisacompletelyfakeddomainnamethatdoesnotexist.com
+https://example.invalid-domain-extension
